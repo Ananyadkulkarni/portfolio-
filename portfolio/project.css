@@ -1,0 +1,39 @@
+.main{
+    width: 100%;
+    background-image: url(blue.jpeg);
+    background-color: linear-gradient(rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%,);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    font-size:larger;
+    text-align: justify;
+    text-decoration: double;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+
+}
+.class1{
+    width: 1300px;
+    letter-spacing: 5px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;  
+    margin-bottom: 40px;
+    padding-top: 100px;
+    color: white;
+}
+
+h1{
+    color: yellow;
+}
+h3{
+    color: yellow;
+}
+.main{
+    font-family: inherit;
+}
